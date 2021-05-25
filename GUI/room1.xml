@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<room>
+  <columns>
+    <column col="1">
+      <table row="1" nearconditioner="no" nearwindow="no" hide="no" neardoor="yes"></table>
+      <table row="2" nearconditioner="no" nearwindow="no" hide="no" neardoor="yes"></table>
+      <table row="3" nearconditioner="no" nearwindow="no" hide="no" neardoor="yes"></table>
+      <table row="4" nearconditioner="no" nearwindow="no" hide="yes" neardoor="no"></table>
+      <table row="5" nearconditioner="no" nearwindow="no" hide="yes" neardoor="no"></table>
+    </column>
+    <column col="2">
+      <table row="1" nearconditioner="no" nearwindow="no" hide="no" neardoor="yes"  ></table>
+      <table row="2" nearconditioner="no" nearwindow="no" hide="no" neardoor="yes"></table>
+      <table row="3" nearconditioner="yes" nearwindow="no" hide="no" neardoor="no"></table>
+      <table row="4" nearconditioner="yes" nearwindow="no" hide="yes" neardoor="no"  ></table>
+    </column>
+    <column col="3">
+      <table row="1" nearconditioner="no" nearwindow="no" hide="no" neardoor="no"></table>
+      <table row="2" nearconditioner="no" nearwindow="no" hide="no" neardoor="no"></table>
+      <table row="3" nearconditioner="yes" nearwindow="no" hide="no" neardoor="no"></table>
+      <table row="4" nearconditioner="yes" nearwindow="no" hide="yes" neardoor="no"></table>
+    </column>
+    <column  col="4">
+      <table row="1" nearconditioner="no" nearwindow="no" hide="no" neardoor="no"></table>
+      <table row="2" nearconditioner="no" nearwindow="no" hide="no" neardoor="no"></table>
+      <table row="3" nearconditioner="yes" nearwindow="no" hide="no" neardoor="no"></table>
+      <table row="4" nearconditioner="yes" nearwindow="no" hide="yes" neardoor="no"></table>
+    </column>
+    <column  col="5">
+      <table row="1" nearconditioner="no" nearwindow="yes" hide="no" neardoor="no"></table>
+      <table row="2" nearconditioner="no" nearwindow="yes" hide="no" neardoor="no"></table>
+      <table row="3" nearconditioner="no" nearwindow="yes" hide="yes" neardoor="no"></table>
+      <table row="4" nearconditioner="no" nearwindow="yes" hide="yes" neardoor="no"></table>
+    </column>
+  </columns>
+</room>
